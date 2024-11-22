@@ -115,24 +115,24 @@ IGV often swiths this rows...
 
 ACA – ACG
 
-![SNPs visualisation with IGV](https://github.com/opnpfgt/Practice_BI_project_2/Practice_BI_2_frequent_snps/A_to_G_snp_pos74.png)
+![SNPs visualisation with IGV](https://github.com/opnpfgt/Practice_BI_project_2/blob/main/Practice_BI_2_frequent_snps/A_to_G_snp_pos74.png)
 
 
 GCC-GCT
 
-![SNPs visualisation with IGV](https://github.com/opnpfgt/Practice_BI_project_2/Practice_BI_2_frequent_snps/C_to_T_snp_pos117.png)
+![SNPs visualisation with IGV](https://github.com/opnpfgt/Practice_BI_project_2/blob/main/Practice_BI_2_frequent_snps/C_to_T_snp_pos117.png)
 
 
 TTT-TTC
 
-![SNPs visualisation with IGV](https://github.com/opnpfgt/Practice_BI_project_2/Practice_BI_2_frequent_snps/TtoC_snp_pos_774.png)
+![SNPs visualisation with IGV](https://github.com/opnpfgt/Practice_BI_project_2/blob/main/Practice_BI_2_frequent_snps/TtoC_snp_pos_774.png)
 
 
 GGC-GGT
 
-![SNPs visualisation with IGV](https://github.com/opnpfgt/Practice_BI_project_2/Practice_BI_2_frequent_snps/C_to_T_snp_pos_999.png)
+![SNPs visualisation with IGV](https://github.com/opnpfgt/Practice_BI_project_2/blob/main/Practice_BI_2_frequent_snps/C_to_T_snp_pos_999.png)
 
 
 CTA-CTC
 
-![SNPs visualisation with IGV](https://github.com/opnpfgt/Practice_BI_project_2/Practice_BI_2_frequent_snps/A_to_C_snp_pos1260.png)
+![SNPs visualisation with IGV](https://github.com/opnpfgt/Practice_BI_project_2/blob/main/Practice_BI_2_frequent_snps/A_to_C_snp_pos1260.png)
